@@ -1,3 +1,5 @@
+Collection of exercise solved in school (Develhope) to deepen my knowledge of Java
+
 # Exercise: 2-interfaces
 * define an interface `LearningPerson` that has an abstract method `studyAtHome`
 * define an interface `TeachingPerson` that has an abstract method `teachToOtherPeople`
